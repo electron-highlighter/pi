@@ -1,3 +1,8 @@
 # Pi
 
-This is a theme for Pi. To get the theme set, go into `~/.pi/agent/themes` and create a file called `electron-highlighter.json`. Then when you open Pi, you type `/settings` and go down to the Theme section and choose Electron Highlighter.
+This is a theme for Pi. Two variants are available:
+
+- `electron-highlighter.json` — the dark theme (Electron Highlighter)
+- `electron-highlighter-day.json` — the light theme (Electron Highlighter Day)
+
+To install, copy the file(s) you want into `~/.pi/agent/themes`. Then when you open Pi, type `/settings`, go down to the Theme section, and choose Electron Highlighter or Electron Highlighter Day.
